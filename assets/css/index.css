@@ -46,7 +46,6 @@ body {
   gap: 60px;
   padding: 100px 0;
 }
-
 .aboutMe .aboutMeContent {
   display: flex;
   flex-direction: column;
